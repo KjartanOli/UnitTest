@@ -1,0 +1,9 @@
+* What is this
+  UnitTest is a very simplistic unit testing framework for Java.  It is still in
+  very early development, and is almost guaranteed to never reach usability for
+  real projects. Please do not use this for actually important code.
+* Usage
+  A single ~UnitTest~ is a single test case, a ~TestSuite~ allows for the grouping
+  of multiple tests, that can then be run with a single command.  The name
+  ~TestSuite~ is pending a change, so that ~TestSuite~ can be used for another
+  concept.  Expect it to change whenever I have the time to get around to it.
